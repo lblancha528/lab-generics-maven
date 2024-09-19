@@ -8,6 +8,8 @@ import edu.grinnell.csc207.util.Predicate;
  * SmallString.PRED.
  *
  * @author Samuel A. Rebelsky
+ * @author Lily Blanchard
+ * @author Tiffany Yan
  *
  */
 public class SmallString implements Predicate<String> {
